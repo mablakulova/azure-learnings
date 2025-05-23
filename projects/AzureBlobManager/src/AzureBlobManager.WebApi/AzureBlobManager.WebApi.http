@@ -1,0 +1,4 @@
+@AzureBlobManager.WebApi_HostAddress = https://localhost:7190
+
+GET {{AzureBlobManager.WebApi_HostAddress}}/
+Accept: application/json

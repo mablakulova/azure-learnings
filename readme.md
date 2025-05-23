@@ -6,3 +6,6 @@
 
 ## Preparation
 - [Resources](docs/resources.md)
+
+## Projects
+- [AzureBlobManager](projects/readme.md)
